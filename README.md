@@ -1,6 +1,6 @@
 # 35174
 
-Reproduction for [Renovate issue 35174](https://github.com/renovatebot/renovate/discussions/35174)).
+Reproduction for [Renovate issue 35174](https://github.com/renovatebot/renovate/discussions/35174).
 
 ## Current behavior
 
