@@ -1,7 +1,8 @@
 {
   "packageRules": [{
+    "description": "Skip pinned verions",
     "matchManagers": ["nuget"],
-    "matchCurrentValue": "/^\\[\\d\\.\\d.\\d\\]$/",
+    "matchCurrentValue": "/^\\[[^,]+\\]$/",
     "enabled": false
   }]
 }
