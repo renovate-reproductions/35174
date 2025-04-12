@@ -1,1 +1,7 @@
-{}
+{
+  "packageRules": [{
+    "matchManagers": ["nuget"],
+    "matchCurrentValue": "/^\\[\\d\\.\\d.\\d\\]$/",
+    "enabled": false
+  }]
+}
