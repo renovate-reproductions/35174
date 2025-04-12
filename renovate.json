@@ -1,6 +1,6 @@
 {
   "packageRules": [{
-    "description": "Skip pinned verions",
+    "description": "Skip pinned versions",
     "matchManagers": ["nuget"],
     "matchCurrentValue": "/^\\[[^,]+\\]$/",
     "enabled": false
